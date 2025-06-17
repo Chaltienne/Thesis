@@ -1,3 +1,4 @@
+## Projection climate extreme using Machine learning techniques
  Extreme precipitation events are increasing in frequency and intensity in East Africa due to climate
  change, posing serious threats to agriculture, infrastructure, and human livelihoods. Traditional
  climate models often struggle to capture the nonlinear, complex, and localized patterns of these
